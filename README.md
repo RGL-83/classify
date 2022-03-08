@@ -1,0 +1,2 @@
+# classify
+python class generator
